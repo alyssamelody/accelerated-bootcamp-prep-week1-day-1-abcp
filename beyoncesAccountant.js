@@ -6,7 +6,7 @@ console.log("Dear " + name)
 console.log("We have calculated your total earnings this year.")
 console.log("You have earned " + beyoncesMoney)
 console.log("Of some portion derives from your live performances.")
-console.log("Of" + total_sum + " some portion derives from music sales.")
+console.log("Of " + total_sum + " some portion derives from music sales.")
 
 
 // DON'T DO THIS PART YET:
