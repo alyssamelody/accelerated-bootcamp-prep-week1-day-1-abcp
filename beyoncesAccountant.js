@@ -1,4 +1,4 @@
-var name = "Beyonce"
+var name = "Beyonce";
 
 console.log("Dear  + name,")
 console.log("We have calculated your total earnings this year.")
